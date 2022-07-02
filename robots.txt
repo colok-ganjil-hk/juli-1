@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://colok-ganjil-hk.github.io/juli-1/sitemap.xml
